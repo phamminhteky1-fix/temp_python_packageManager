@@ -1,5 +1,5 @@
 # Python Temponary Package Manager
-The package manager that I used when developing Pythy.
+This is the package manager that I used when developing Pythy in oder to save my storage from burning.
 
 ## How 2 use
 1. Download the 'main.py' file
