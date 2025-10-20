@@ -8,4 +8,7 @@ This is the package manager that I used when developing Pythy in oder to save my
 4. At the end of the code, add `cleanup_packages()` so it will clean up every package you installed at the first lines of code
 5. You would like to watch this repo, since you don't want to miss updates.
 
+## DISCLAIMER
+1. DO NOT PRESS CTRL+C OR DO ANYTHING THAT WILL STOP THE CODE DURING UNINSTALLAITON. DOING THIS MAY STOP THE UNINSTALLING PROCESS AND REMAIN THE PACKAGE ON YOUR DEVICE. TO RESOLBE THE PROBLEM, UNINSALL THE PACKAGE MANUALLY USING SHELL.
+
 Thats all. Hope it helps your storage!!!
